@@ -1,0 +1,18 @@
+{
+  // // Vamos ligar o autosave para todos os arquivos.
+  "editor.formatOnSave": true,
+
+  // // Mas vamos desabilitar para eslint
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  // // show eslint icon at bottom toolbar
+  "eslint.alwaysShowStatus": true,
+  // // tell the ESLint plugin to run on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}

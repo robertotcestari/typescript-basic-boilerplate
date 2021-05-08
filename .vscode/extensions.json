@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "aaron-bond.better-comments",
+    "formulahendry.auto-rename-tag",
+    "naumovs.color-highlight",
+    "sleistner.vscode-fileutils",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "streetsidesoftware.code-spell-checker",
+    "patbenatar.advanced-new-file",
+    "zhuangtongfa.material-theme",
+    "alefragnani.project-manager",
+    "ms-vscode.sublime-keybindings",
+    "shan.code-settings-sync",
+    "vscode-icons-team.vscode-icons",
+    "coenraads.bracket-pair-colorizer-2"
+  ]
+}
