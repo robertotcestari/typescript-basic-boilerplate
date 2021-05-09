@@ -1,8 +1,16 @@
-const lala = 'beto';
-const land = 'beto';
+import Cachorro from './Cachorro';
+import { bele } from './functionTest';
 
-function beto(lala: string, land: string) {
-  console.log(lala, land);
-}
+const dingo = new Cachorro('Dingão da galera');
+const nino = new Cachorro('Ninonho');
 
-beto(lala, land);
+console.log(dingo);
+console.log('oies');
+console.log(nino);
+
+console.log(bele);
+
+(async () => {
+  const bets = await bele();
+  console.log(bets);
+})();

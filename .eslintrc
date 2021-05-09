@@ -11,10 +11,13 @@
   ],
   "env": {
     "es6": true,
+    "browser": true,
     "node": true
   },
   "rules": {
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "@typescript-eslint/no-var-requires": 0
+    // "@typescript-eslint/no-explicit-any": 0
   },
   "plugins": ["prettier"]
 }
